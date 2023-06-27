@@ -7,4 +7,4 @@ There are three notebooks:
 * **simpleWalk**: very simple walks, for comparison
 * **classify**: gather different embeddings and compare classification results
 
-We use two datasets (with balanced binary classes): NCI1 and NCI109.
+We use two datasets from: https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets 
