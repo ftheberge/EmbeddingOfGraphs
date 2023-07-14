@@ -8,3 +8,5 @@ There are three notebooks:
 * **classify**: gather different embeddings and compare classification results
 
 We use several datasets from: https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets 
+
+Leaderboard at: https://paperswithcode.com/task/graph-classification
